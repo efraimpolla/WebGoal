@@ -1,16 +1,5 @@
-var agenda = [];
-
 var qtd = '';
 var numeros = '';
-
-var corrente = null;
-var prox = null;
-
-//0123456789 
-//1123456789 
-//01254566
-//1234
-//11233s
 var tamanho = 0;
 
 var adicionaNaAgenda = function()
